@@ -1,0 +1,19 @@
+{
+  "name": "우리가족 운동 다이어리",
+  "short_name": "운동 다이어리",
+  "description": "조은·준호·그레이스·제라도의 운동 기록. 몸을 튼튼하게, 정신을 맑게.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#2f7de1",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
